@@ -22,7 +22,7 @@
 }
 #skills li{
   display: inline;
-  color: #147393;
+  color: #1240A4;
   font-weight: normal;
 }
 
@@ -72,8 +72,8 @@
 /* Header
 **********/
 	header[role=banner] {
-		background:#33a4c9;
-		border-bottom:4px solid #33a4c9;
+		background:#092052;
+		border-bottom:4px solid #092052;
 		padding: 19px 0;
 		overflow: hidden;
 	}
@@ -99,7 +99,7 @@
 	}
 	
 	header hgroup h1 {
-		color:#555;
+		color: #6684C4;
 		font-family:'DroidSansBold', Arial, sans-serif;
 	}
 	
@@ -117,7 +117,7 @@
 	.placeholder { color: #fff; }
 
 	.contactform {
-		background-color: #33a4c9;
+		background-color: #1240A4;
 		color: #fff;
 		display: none;
 	}
@@ -241,7 +241,7 @@
 	}
 	
 	section[role=main] h3:before {
-		background-color: #33a4c9;
+		background-color: #1240A4;
 		border-radius: 25px;
 	}
 	
@@ -283,7 +283,7 @@
 	}
 	
 	section[role=main] h4 strong {
-		color: #147393;
+		color: #1240A4;
 		font-weight: normal;
 	}
 	
@@ -303,7 +303,7 @@
 	/* Affichage des compétences sous forme de tags
 	**********************************************/
 	.competences .tags li {
-		background-color:#33a4c9;
+		background-color:#1240A4;
 		border:1px solid #1b91b7;
 		border-radius: 15px;
 		color:#fff;
@@ -332,7 +332,7 @@
 	}
 	
 	.competences .barres li span {
-		background: #33a4c9;
+		background: #1240A4;
 		bottom: -4px;
 		content: ' ';
 		display: block;

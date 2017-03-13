@@ -14,7 +14,7 @@
 }
 #skills li{
   display: inline;
-  color: #147393;
+  color: #1240A4;
   font-weight: normal;
 }
 
@@ -28,8 +28,8 @@ Créateur : Christophe HERMANN (@chrishrmnn)
 /* Header
 **********/
 	header[role=banner] {
-		background:#33a4c9;
-		border-bottom:4px solid #33a4c9;
+		background:#092052;
+		border-bottom:4px solid #092052;
 		padding: 19px 0;
 		overflow: hidden;
 	}
@@ -62,7 +62,7 @@ Créateur : Christophe HERMANN (@chrishrmnn)
 	.placeholder { color: #fff; }
 
 	.contactform {
-		background-color: #33a4c9;
+		background-color: #1240A4;
 		color: #fff;
 		display: none;
 	}
@@ -191,7 +191,7 @@ Créateur : Christophe HERMANN (@chrishrmnn)
 	}
 	
 	section[role=main] h3:before {
-		background-color: #33a4c9;
+		background-color: #1240A4;
 		border-radius: 25px;
 	}
 	
@@ -228,7 +228,7 @@ Créateur : Christophe HERMANN (@chrishrmnn)
 	}
 	
 	section[role=main] h4 strong {
-		color: #147393;
+		color: #1240A4;
 		font-weight: normal;
 	}
 	
@@ -244,7 +244,7 @@ Créateur : Christophe HERMANN (@chrishrmnn)
 	/* Affichage des compétences sous forme de tags
 	**********************************************/
 	.competences .tags li {
-		background-color:#33a4c9;
+		background-color:#1240A4;
 		border:1px solid #1b91b7;
 		border-radius: 15px;
 		color:#fff;
@@ -273,7 +273,7 @@ Créateur : Christophe HERMANN (@chrishrmnn)
 	}
 	
 	.competences .barres li span {
-		background: #33a4c9;
+		background: #1240A4;
 		bottom: -4px;
 		content: ' ';
 		display: block;
